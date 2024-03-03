@@ -1,0 +1,7 @@
+pandas
+numpy
+langchain
+ipykernel
+python-dotenv
+h11
+huggingface_hub
