@@ -10,3 +10,9 @@ Introduction
 DAY2 : 21-01-2024 
 Roadmap
 Complete timeline
+
+Day13 : 02-03-2024
+API
+
+Day14 : 03-03-2024
+LangChain
