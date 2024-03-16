@@ -1,6 +1,9 @@
 # GenAI_Ineuron
 GenAI_Ineuron
-#Mstering Generative AI with Open AI
+
+## Link for Live Class doc
+
+https://docs.google.com/document/u/0/d/1nkKsY-ACTXQMVl42iat-ERO1tHIRcESm3AOSU5iLbcw/mobilebasic
 
 DAY1 : 20-01-2024
 
@@ -48,5 +51,13 @@ API
 
 Day14 : 03-03-2024
 LangChain
+
+Day15 : 09-03-2024
+LangChain Demo - Agents and tools
+
+Day16 : 10-03-2024
+LangChain Demo
+
+
 conda create -n langchain python=3.9 -y
 conda activate langchain
